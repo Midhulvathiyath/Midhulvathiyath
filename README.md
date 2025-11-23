@@ -74,8 +74,6 @@ Prepared learning materials and MCQs on:
 
 ## Contact
 - LinkedIn: https://www.linkedin.com/in/midhulvm  
-- Email: (add your email here)  
-- GitHub: (add your GitHub username link)
 
 ---
 
