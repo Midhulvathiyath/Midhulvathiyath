@@ -27,7 +27,7 @@ I'm a practical, hands-on cybersecurity practitioner and bug bounty researcher w
 - Exploit verification & PoC development
 
 **Tools**
-- Burp Suite, Nmap, Nikto, Metasploit, curl, wfuzz
+- Burp Suite, Nmap, Metasploit, curl, wfuzz
 - OSINT & enumeration frameworks
 - Docker, Vagrant, iptables, Snort (for honeypot/navigation)
 
